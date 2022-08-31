@@ -1,2 +1,3 @@
 welcome revathy to new sample repositary written from github edit file
 second line of the file from vscode push to github 
+third line added and pushed to git hub
