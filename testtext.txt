@@ -1,3 +1,4 @@
 welcome revathy to new sample repositary written from github edit file
 second line of the file from vscode push to github 
 added third line git add.
+check adding properly in branch1
